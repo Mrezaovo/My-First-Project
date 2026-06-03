@@ -1,0 +1,16 @@
+D:\proje\FekrBekrGame\FekrBekrGame\bin\Debug\net5.0\FekrBekrGame.exe
+D:\proje\FekrBekrGame\FekrBekrGame\bin\Debug\net5.0\FekrBekrGame.deps.json
+D:\proje\FekrBekrGame\FekrBekrGame\bin\Debug\net5.0\FekrBekrGame.runtimeconfig.json
+D:\proje\FekrBekrGame\FekrBekrGame\bin\Debug\net5.0\FekrBekrGame.runtimeconfig.dev.json
+D:\proje\FekrBekrGame\FekrBekrGame\bin\Debug\net5.0\FekrBekrGame.dll
+D:\proje\FekrBekrGame\FekrBekrGame\bin\Debug\net5.0\ref\FekrBekrGame.dll
+D:\proje\FekrBekrGame\FekrBekrGame\bin\Debug\net5.0\FekrBekrGame.pdb
+D:\proje\FekrBekrGame\FekrBekrGame\obj\Debug\net5.0\FekrBekrGame.csproj.AssemblyReference.cache
+D:\proje\FekrBekrGame\FekrBekrGame\obj\Debug\net5.0\FekrBekrGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\proje\FekrBekrGame\FekrBekrGame\obj\Debug\net5.0\FekrBekrGame.AssemblyInfoInputs.cache
+D:\proje\FekrBekrGame\FekrBekrGame\obj\Debug\net5.0\FekrBekrGame.AssemblyInfo.cs
+D:\proje\FekrBekrGame\FekrBekrGame\obj\Debug\net5.0\FekrBekrGame.csproj.CoreCompileInputs.cache
+D:\proje\FekrBekrGame\FekrBekrGame\obj\Debug\net5.0\FekrBekrGame.dll
+D:\proje\FekrBekrGame\FekrBekrGame\obj\Debug\net5.0\ref\FekrBekrGame.dll
+D:\proje\FekrBekrGame\FekrBekrGame\obj\Debug\net5.0\FekrBekrGame.pdb
+D:\proje\FekrBekrGame\FekrBekrGame\obj\Debug\net5.0\FekrBekrGame.genruntimeconfig.cache
